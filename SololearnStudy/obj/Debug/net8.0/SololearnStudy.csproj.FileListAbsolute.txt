@@ -1,0 +1,15 @@
+/workspaces/skills-code-with-codespaces/SololearnStudy/obj/Debug/net8.0/SololearnStudy.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/skills-code-with-codespaces/SololearnStudy/obj/Debug/net8.0/SololearnStudy.AssemblyInfoInputs.cache
+/workspaces/skills-code-with-codespaces/SololearnStudy/obj/Debug/net8.0/SololearnStudy.AssemblyInfo.cs
+/workspaces/skills-code-with-codespaces/SololearnStudy/obj/Debug/net8.0/SololearnStudy.csproj.CoreCompileInputs.cache
+/workspaces/skills-code-with-codespaces/SololearnStudy/obj/Debug/net8.0/SololearnStudy.sourcelink.json
+/workspaces/skills-code-with-codespaces/SololearnStudy/bin/Debug/net8.0/SololearnStudy
+/workspaces/skills-code-with-codespaces/SololearnStudy/bin/Debug/net8.0/SololearnStudy.deps.json
+/workspaces/skills-code-with-codespaces/SololearnStudy/bin/Debug/net8.0/SololearnStudy.runtimeconfig.json
+/workspaces/skills-code-with-codespaces/SololearnStudy/bin/Debug/net8.0/SololearnStudy.dll
+/workspaces/skills-code-with-codespaces/SololearnStudy/bin/Debug/net8.0/SololearnStudy.pdb
+/workspaces/skills-code-with-codespaces/SololearnStudy/obj/Debug/net8.0/SololearnStudy.dll
+/workspaces/skills-code-with-codespaces/SololearnStudy/obj/Debug/net8.0/refint/SololearnStudy.dll
+/workspaces/skills-code-with-codespaces/SololearnStudy/obj/Debug/net8.0/SololearnStudy.pdb
+/workspaces/skills-code-with-codespaces/SololearnStudy/obj/Debug/net8.0/SololearnStudy.genruntimeconfig.cache
+/workspaces/skills-code-with-codespaces/SololearnStudy/obj/Debug/net8.0/ref/SololearnStudy.dll
